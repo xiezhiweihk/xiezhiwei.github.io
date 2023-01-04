@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
 I am currently a research assistant in the Education University of Hong Kong, supervised by [Prof. Philip L H Yu.](https://pappl.eduhk.hk/rich/web/person.xhtml?pid=271389) Previously, I engaged in the field of Robotic Process Automation in industry and had a short banking FinTech related experience  
 
 Project
