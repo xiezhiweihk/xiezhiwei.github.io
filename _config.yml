@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiwei Xie"
+title                    : "Zhiwei XIE"
 title_separator          : "-"
-name                     : &name "Zhiwei Xie"
+name                     : &name "Zhiwei XIE"
 description              : &description "personal description"
 url                      : https://xiezhiweihk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhiwei Xie"
+  name             : "Zhiwei XIE"
   avatar           : "profile.png"
   bio              : 
   location         : "Hong Kong"
