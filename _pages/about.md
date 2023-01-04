@@ -28,4 +28,4 @@ Project
 Publications
 ======
 **Conference Papers**
-+ Zhuang, Y., Zhao, R., Xie, Z., & Yu, P.L.H. (2022, 12). AI-based Scoring for Picture-cue Writing Assessment. Presented at IASC-ARS Interim Conference 2022.
++ Zhuang, Y., Zhao, R., Xie, Z., & Yu, P.L.H. (2022, 12). AI-based Scoring for Picture-cue Writing Assessment. Presented at The Asian Regional Section of the International Association for Statistical Computing Interim Conference 2022.
